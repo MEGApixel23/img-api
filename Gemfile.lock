@@ -59,6 +59,7 @@ GEM
 
 PLATFORMS
   ruby
+  x86-mingw32
 
 DEPENDENCIES
   byebug
@@ -70,3 +71,6 @@ DEPENDENCIES
   sinatra-contrib
   sinatra-initializers
   sinatra-param
+
+BUNDLED WITH
+   1.11.2
